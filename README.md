@@ -6,7 +6,8 @@ This repository contains a list of the scenarios available in the [Robotics CTF]
 
 | Scenario | Short description | Author/s | Status |
 |-----|-----|------|------|
-|rctf-scenario1 | Unprotected topics show a lot of interesting information. Search on them to get your answer. Useful tools: rostopic  | [aliasrobotics](https://github.com/aliasrobotics)  | Active |
+| rctf-scenario1 | Unprotected topics show a lot of interesting information. Search on them to get your answer. Useful tools: rostopic  | [aliasrobotics](https://github.com/aliasrobotics)  | Active |
+| rctf-scenario2 | In ROS2, even if security measures are available, not configuring them leverages to the same results as in ROS1. Useful tools: ros2 topic | [aliasrobotics](https://github.com/aliasrobotics) | Active |
 | .... |... |... |...|
 
 ## Create your own scenario
