@@ -9,6 +9,7 @@ This repository contains a list of the scenarios available in the [Robotics CTF]
 | rctf-scenario1 | Unprotected topics show a lot of interesting information. Search on them to get your answer. Useful tools: rostopic  | [aliasrobotics](https://github.com/aliasrobotics)  | Active |
 | rctf-scenario2 | In ROS2, even if security measures are available, not configuring them leverages to the same results as in ROS1. Useful tools: ros2 topic | [aliasrobotics](https://github.com/aliasrobotics) | Active |
 | rctf-scenario3 |  The dinosaurs are out of control, and the node that controls the gates is not letting us in. Try to guess what the node wants so you can access the next scenario. | [aliasrobotics](https://github.com/aliasrobotics) | Active |
+| rctf-scenario4 | Even if collaborative robots are fun to play with, if they are out of control, they can be dangerous too! Try to hit our friend, Pruden, with the robot in order to get the flag. | [aliasrobotics](https://github.com/aliasrobotics) | Active |
 | .... |... |... |...|
 
 ## Create your own scenario
