@@ -21,21 +21,21 @@ We invite security researchers to create their own robotics security scenarios a
 ## Cite our work
 If you're using our work for your research, please cite us as:
 ```
-@ARTICLE{2018arXiv181002690O,
-            author = {{Olalde Mendia}, G. and {Usategui San Juan}, L. and {Perez Bascaran}, X. and
-           {Bilbao Calvo}, A. and {Hern{\'a}ndez Cordero}, A. and {Zamalloa Ugarte}, I. and
-           {Mu{\~n}iz Rosas}, A. and {Mayoral Vilches}, D. and {Ayucar Carbajo}, U. and
-           {Alzola Kirschgens}, L. and {Mayoral Vilches}, V. and {Gil-Uriarte}, E.
-           },
-             title = "{Robotics CTF (RCTF), a playground for robot hacking}",
-           journal = {ArXiv e-prints},
-         archivePrefix = "arXiv",
-            eprint = {1810.02690},
-          primaryClass = "cs.CY",
-          keywords = {Computer Science - Computers and Society, Computer Science - Robotics},
-              year = 2018,
-             month = oct,
-            adsurl = {http://adsabs.harvard.edu/abs/2018arXiv181002690O},
-           adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-         }
+@ARTICLE{rctf,
+   author = {{Olalde Mendia}, G. and {Usategui San Juan}, L. and {Perez Bascaran}, X. and
+	{Bilbao Calvo}, A. and {Hern{\'a}ndez Cordero}, A. and {Zamalloa Ugarte}, I. and
+	{Mu{\~n}iz Rosas}, A. and {Mayoral Vilches}, D. and {Ayucar Carbajo}, U. and
+	{Alzola Kirschgens}, L. and {Mayoral Vilches}, V. and {Gil-Uriarte}, E.
+	},
+    title = "{Robotics CTF (RCTF), a playground for robot hacking}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1810.02690},
+ primaryClass = "cs.CY",
+ keywords = {Computer Science - Computers and Society, Computer Science - Robotics},
+     year = 2018,
+    month = oct,
+   adsurl = {http://adsabs.harvard.edu/abs/2018arXiv181002690O},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 ```
