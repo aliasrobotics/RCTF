@@ -1,6 +1,9 @@
-# rctf-list
+# Robotics CTF (RCTF)
 
-The Robotics Capture the Flag (RCTF) is an online playground to challenge robot security from your browser. It is designed to be an online game, available 24/7, launchable through your browser and designed to learn robot hacking step by step.
+<a href="http://www.aliasrobotics.com"><img src="https://aliasrobotics.com/media/alias_logo_central.png" align="left" hspace="8" vspace="2" width="200"></a>
+
+
+The [Robotics Capture the Flag](https://aliasrobotics.com/ctf.htm) (Robotics CTF or RCTF) is an online playground to challenge robot security from your browser. It was designed to be online, available 24/7, launchable through your browser and designed to learn robot hacking step by step while competing with other security researchers. In an attempt to facilitate reproduction of results and further customization (common when researching vulnerabilities), this repository provides a list with open source reference scenarios that run in our Robotics CTF.
 
 This repository contains a list of the scenarios available in the [Robotics CTF](http://rctf.aliasrobotics.com).
 
@@ -12,15 +15,16 @@ This repository contains a list of the scenarios available in the [Robotics CTF]
 | [rctf-scenario4](https://github.com/aliasrobotics/rctf-scenario4) | Even if collaborative robots are fun to play with, if they are out of control, they can be dangerous too! Try to hit our friend, Pruden, with the robot in order to get the flag. | [aliasrobotics](https://github.com/aliasrobotics) | Active |
 | .... |... |... |...|
 
-## Create your own scenario
-We invite security researchers to create their own robotics security scenarios and share them with the community. We accept such contributions through [Pull Request](https://github.com/aliasrobotics/rctf-list/pulls). To create your own scenario, start from [this simple template](https://github.com/aliasrobotics/rctf-scenario1).
+## Contributing
+We invite security researchers to create their own robotics security scenarios and share them with the community. We accept such contributions through [Pull Request](https://github.com/aliasrobotics/rctf/pulls). To create your own scenario, start from [this simple template](https://github.com/aliasrobotics/rctf-scenario1).
 
 ## Cite our work
+If you're using our work for your research, please cite us as:
 ```
 @ARTICLE{2018arXiv181002690O,
-            author = {{Olalde Mendia}, G. and {Usategui San Juan}, L. and {Perez Bascaran}, X. and 
-           {Bilbao Calvo}, A. and {Hern{\'a}ndez Cordero}, A. and {Zamalloa Ugarte}, I. and 
-           {Mu{\~n}iz Rosas}, A. and {Mayoral Vilches}, D. and {Ayucar Carbajo}, U. and 
+            author = {{Olalde Mendia}, G. and {Usategui San Juan}, L. and {Perez Bascaran}, X. and
+           {Bilbao Calvo}, A. and {Hern{\'a}ndez Cordero}, A. and {Zamalloa Ugarte}, I. and
+           {Mu{\~n}iz Rosas}, A. and {Mayoral Vilches}, D. and {Ayucar Carbajo}, U. and
            {Alzola Kirschgens}, L. and {Mayoral Vilches}, V. and {Gil-Uriarte}, E.
            },
              title = "{Robotics CTF (RCTF), a playground for robot hacking}",
