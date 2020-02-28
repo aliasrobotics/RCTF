@@ -1,6 +1,8 @@
 # Robotics CTF (RCTF)
 
-<a href="http://www.aliasrobotics.com"><img src="https://aliasrobotics.com/media/alias_logo_central.png" align="left" hspace="8" vspace="2" width="200"></a>
+<a href="http://www.aliasrobotics.com"><img src="https://camo.githubusercontent.com/668b5509ecf6909d4f900ee5be2eed822f5cf410/68747470733a2f2f7777772e6d617373726f626f746963732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30312f416c6961732d6c6f676f2e706e67" align="left" hspace="8" vspace="2" width="200"></a>
+
+
 
 The [Robotics Capture the Flag](https://aliasrobotics.com/ctf.htm) (Robotics CTF or RCTF) is an online playground to challenge robot security from your browser. It was designed to be online, available 24/7, launchable through your browser and designed to learn robot hacking step by step while competing with other security researchers. In an attempt to facilitate reproduction of results and further customization (common when researching vulnerabilities), this repository provides a list with open source reference scenarios that run in our Robotics CTF.
 
