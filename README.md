@@ -1,3 +1,5 @@
+> This repository has been archived and is not maintained any further. Refer to [alurity](https://aliasrobotics.com/alurity.php) if you wish to access pre-built robots challenges and robotic environments.
+
 # Robotics CTF (RCTF)
 
 <a href="http://www.aliasrobotics.com"><img src="https://camo.githubusercontent.com/668b5509ecf6909d4f900ee5be2eed822f5cf410/68747470733a2f2f7777772e6d617373726f626f746963732e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30312f416c6961732d6c6f676f2e706e67" align="left" hspace="8" vspace="2" width="200"></a>
