@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use RCTF, please cite the paper below."
+title: Robotics CTF (RCTF)
+type: software
+authors:
+  - name: Alias Robotics
+repository-code: https://github.com/aliasrobotics/RCTF
+url: https://cybersecurityrobotics.com/research/robotics-ctf/
+preferred-citation:
+  type: article
+  title: "Robotics CTF (RCTF), a playground for robot hacking"
+  authors:
+    - given-names: Gorka
+      family-names: Olalde Mendia
+    - given-names: Lander
+      family-names: Usategui San Juan
+    - given-names: Xabier
+      family-names: Perez Bascaran
+    - given-names: Asier
+      family-names: Bilbao Calvo
+    - given-names: Alejandro
+      family-names: Hernández Cordero
+    - given-names: Irati
+      family-names: Zamalloa Ugarte
+    - given-names: Aday
+      family-names: Muñiz Rosas
+    - given-names: David
+      family-names: Mayoral Vilches
+    - given-names: Unai
+      family-names: Ayucar Carbajo
+    - given-names: Laura
+      family-names: Alzola Kirschgens
+    - given-names: Víctor
+      family-names: Mayoral Vilches
+    - given-names: Endika
+      family-names: Gil-Uriarte
+  year: 2018
+  journal: arXiv
+  url: https://arxiv.org/abs/1810.02690

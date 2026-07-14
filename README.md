@@ -24,7 +24,9 @@ We invite security researchers to create their own robotics security scenarios a
 
 ## Cite our work
 
-[![Article](https://img.shields.io/badge/article-arxiv%3A1812.09490-red.svg)](https://arxiv.org/pdf/1810.02690.pdf)
+[![Article](https://img.shields.io/badge/article-arxiv%3A1810.02690-red.svg)](https://arxiv.org/pdf/1810.02690.pdf)
+
+**HTML reading edition:** [The Robotics CTF (RCTF): a playground for robot hacking](https://cybersecurityrobotics.com/research/robotics-ctf/)
 
 If you're using our work for your research, please cite us as:
 ```
